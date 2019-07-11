@@ -1,0 +1,15 @@
+com\guolun\sys\baseInfo\PageResponse.class
+com\guolun\sys\config\db\DataSourceType.class
+com\guolun\sys\service\impl\IActivityServiceImpl.class
+com\guolun\sys\baseInfo\BaseMapper.class
+com\guolun\sys\baseInfo\BaseServiceImpl.class
+com\guolun\SysProviderApplication.class
+com\guolun\sys\baseInfo\BaseService.class
+com\guolun\sys\config\MybatisConfig.class
+com\guolun\sys\config\db\RoutingDataSource.class
+com\guolun\sys\config\aop\DataSourceAspect.class
+com\guolun\sys\mapper\ActivityMapper.class
+com\guolun\sys\config\db\DataSourceContextHolder.class
+com\guolun\sys\config\DruidConfig.class
+com\guolun\sys\config\aop\TransactionAdviceConfig.class
+com\guolun\sys\baseInfo\PageRequest.class

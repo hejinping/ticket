@@ -1,0 +1,15 @@
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\config\db\DataSourceContextHolder.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\config\db\DataSourceType.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\SysProviderApplication.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\config\DruidConfig.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\baseInfo\BaseMapper.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\config\aop\TransactionAdviceConfig.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\baseInfo\PageResponse.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\config\db\RoutingDataSource.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\mapper\ActivityMapper.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\service\impl\IActivityServiceImpl.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\baseInfo\BaseService.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\baseInfo\BaseServiceImpl.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\config\aop\DataSourceAspect.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\baseInfo\PageRequest.java
+D:\ticket-web\platform-ticket\sys\sys-provider\src\main\java\com\guolun\sys\config\MybatisConfig.java
